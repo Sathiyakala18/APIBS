@@ -104,5 +104,5 @@ public class BaseClass {
 	reqSpec =  reqSpec.multiPart("Profile_Picture", new File("C:\\Users\\Sathiyakala\\Desktop\\PappuPic"));
 	}
 	}
-
+fine g00d
 
